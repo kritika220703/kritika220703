@@ -1,4 +1,4 @@
-<h2 align="center"># Hey 👋, I'm Kritika Bansal</h2>
+<h2 align="center">#### Hey 👋, I'm Kritika Bansal</h2>
 <img alt="Girl using laptop" width="275px" height="275px" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" align="right"/>
 
 #### Thanks for visiting my profile!  
