@@ -1,6 +1,6 @@
 <div align="center">
-# Hey 👋, I'm Kritika Bansal
   
+# Hey 👋, I'm Kritika Bansal
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
