@@ -16,7 +16,7 @@ I am a final year student pursuing computer science engineering at **IIT Ropar**
 
 </div>
 
-<img src="https://www.google.com/imgres?q=cartoon%20girl%20with%20laptop%20for%20github&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F7a%2F87%2F81%2F7a8781168fde99a52044ab01c6968599.jpg&imgrefurl=https%3A%2F%2Fit.pinterest.com%2Fpin%2Fpremium-vector--349029039893720859%2F&docid=wjwzD1w0oeUN4M&tbnid=pOaxlSB2k56nmM&vet=12ahUKEwicsbWasriIAxU4ZWwGHZF2DBIQM3oECBYQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwicsbWasriIAxU4ZWwGHZF2DBIQM3oECBYQAA" alt="Kritika Bansal" width="200" style="margin-left: 20px;"/>
+<img src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" alt="Kritika Bansal" width="200" style="margin-left: 20px;"/>
 
 </div>
 
