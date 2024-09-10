@@ -1,5 +1,5 @@
 <h3 align="center"># Hey 👋, I'm Kritika Bansal</h3>
-<img alt="Girl using laptop" width="300px" height="300px" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" align="right"/>
+<img alt="Girl using laptop" width="275px" height="275px" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" align="right"/>
 
 #### Thanks for visiting my profile!  
 
