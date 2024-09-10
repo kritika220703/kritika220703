@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hey 👋, I'm Kritika Bansal
+
+</div>
 
 Thanks for visiting my profile!  
 
