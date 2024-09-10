@@ -17,8 +17,6 @@ I am a final year student pursuing computer science engineering at **IIT Ropar**
 
 </div>
 
-<img src="[https://your-image-url.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FShruti-Sawant-22&psig=AOvVaw2ycXkbDAW6vkJkLRw2-s89&ust=1726058256433000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjNoJ6yuIgDFQAAAAAdAAAAABAv)" alt="Kritika Bansal" width="200" style="margin-left: 20px;"/>
-
 </div>
 
 ---
