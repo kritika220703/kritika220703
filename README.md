@@ -1,11 +1,7 @@
 <div align="center">
+<img alt="Girl using laptop" width="300px" height="300px" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" align="right"/>
   
 # Hey 👋, I'm Kritika Bansal
-</div>
-
-<table>
-<tr>
-  <td>
 
 Thanks for visiting my profile!  
 
@@ -13,13 +9,6 @@ I am a final year student pursuing computer science engineering at **IIT Ropar**
 
 - 👯 Looking to collaborate on **exciting projects**!
 - 📫 Reach me out on [**Kritika Bansal**](https://www.linkedin.com/in/kritika-bansal-586ab5226/)
-
-</td>
-  <td>
-    <img src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" alt="Kritika Bansal" width="200"/>
-  </td>
-</tr>
-</table>
 
 ---
 
