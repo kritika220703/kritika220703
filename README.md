@@ -3,7 +3,7 @@
 # Hey 👋, I'm Kritika Bansal
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start;">
 
 <div style="flex: 1;">
 
@@ -16,7 +16,7 @@ I am a final year student pursuing computer science engineering at **IIT Ropar**
 
 </div>
   
-<img src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" alt="Kritika Bansal" width="200" style="margin-left: 20px; flex-shrink: 0;"/>
+<img src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" alt="Kritika Bansal" width="200" style="margin-left: 20px;"/>
 
 </div>
 
