@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey 👋, I'm Kritika Bansal
 
-<!--
-**kritika220703/kritika220703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Final Year Undergraduate at IIT Ropar**
 
-Here are some ideas to get you started:
+Thanks for visiting my profile!  
+I am currently in my final year pursuing computer science engineering at **IIT Ropar**, passionate about solving problems and leveraging my computer science skills to create efficient software solutions. Currently, I am exploring **Web Development** and **Machine Learning**, especially **Generative AI**. I am also learning more about **Data Structures** and **Algorithms**, and how they can be utilized in real-life projects to make them more efficient and scalable. Eager to collaborate on innovative projects that push the boundaries of tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on **exciting projects**!
+- 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/kritika-bansal-586ab5226/) **Kritika Bansal**.
+
+---
+
+### 📈 GitHub Stats
+
+![Kritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritika220703&show_icons=true&theme=radical)
+
+---
+
+Let's connect and build something amazing together! 🚀
