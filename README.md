@@ -1,4 +1,4 @@
-<h3 align="center"># Hey 👋, I'm Kritika Bansal</h3>
+<h2 align="center"># Hey 👋, I'm Kritika Bansal</h2>
 <img alt="Girl using laptop" width="275px" height="275px" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" align="right"/>
 
 #### Thanks for visiting my profile!  
@@ -8,7 +8,9 @@ I am a final year student pursuing computer science engineering at **IIT Ropar**
 - 👯 Looking to collaborate on **exciting projects**!
 - 📫 Reach me out on [**Kritika Bansal**](https://www.linkedin.com/in/kritika-bansal-586ab5226/)
 
-<p></p>
+<p>
+  
+</p>
 
 ---
 
