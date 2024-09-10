@@ -8,11 +8,6 @@ I am a final year student pursuing computer science engineering at **IIT Ropar**
 - 👯 Looking to collaborate on **exciting projects**!
 - 📫 Reach me out on [**Kritika Bansal**](https://www.linkedin.com/in/kritika-bansal-586ab5226/)
 
-<p>
-  
-</p>
-
----
 
 ### 📈 GitHub Stats
 
