@@ -15,12 +15,9 @@ I am a final year student pursuing computer science engineering at **IIT Ropar**
 - 📫 Reach me out on [**Kritika Bansal**](https://www.linkedin.com/in/kritika-bansal-586ab5226/)
 
 </div>
-
-<div style="flex: 2;">
   
-<img src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" alt="Kritika Bansal" width="200" style="margin-left: 20px;"/>
+<img src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-248.jpg?w=740" alt="Kritika Bansal" width="200" style="margin-left: 20px; flex-shrink: 0;"/>
 
-</div>
 </div>
 
 ---
